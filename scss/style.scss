@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: linear-gradient(180deg, rgb(20, 8, 49) 0%, rgb(30, 4, 99) 100%);
+}
+
+.panel {
+    height: 100vh;
+    width: 100%;
+}
+.panel.green {
+    margin-bottom: 400px;
+}
